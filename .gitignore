@@ -1,0 +1,10 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/log
+# misc
+.env
+pm2.config.json
+package-lock.json
+/uploads
